@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 hide_title: true
 title: "About Me"
 excerpt: "about me"
