@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+I have been a teaching assistant for Selected Topics in Computational Vision (EE148) at Caltech (Spring 2021, Spring 2022).
+
+### 2022
+___ 
+**EE 148**:  
+*Selected Topics in Computational Vision* 
+I gave a lecture on transformers, their relationship to vision transformers, and the intuition behind attention. I also briefly discussed the practical differences in how CNNs and ViTs process images.
+[[pdf slides]]()[[keynote]]()
