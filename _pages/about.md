@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltech.edu/academics/cns) program at Caltech. My advisor is Professor [Pietro Perona](https://scholar.google.com/citations?user=j29kMCwAAAAJ&hl=en).
+I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltech.edu/academics/cns) program at Caltech. I am advised by Professor [Pietro Perona](https://scholar.google.com/citations?user=j29kMCwAAAAJ&hl=en).
 
 Research Interests
 ----
