@@ -1,7 +1,3 @@
-```{css}
-li {
-  line-height: 1.1;
-}
 ---
 permalink: /
 title: "About me"
