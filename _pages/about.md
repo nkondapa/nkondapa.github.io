@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Computation and Neural Systems program at Caltech. My advisor is Professor [Pietro Perona](https://www.vision.caltech.edu/). 
+I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltech.edu/academics/cns) program at Caltech. My advisor is Professor [Pietro Perona](https://scholar.google.com/citations?user=j29kMCwAAAAJ&hl=en).
 
 Research Interests
 ----
@@ -20,6 +20,4 @@ Currently, I'm working on the problem of machine teaching. We aim to take a trai
 Background
 ----
 <font size="3">
-I'm originally from Cupertino, CA and attended Monta Vista High School. I did my BS in Physiology and Neuroscience with a minor in Computer Science at the University of California San Diego. As a student at UCSD, I did systems neuroscience research in the Komiyama Lab for two years and neuroeconomics research with Dr. Pamela Reinagel for 1 year. At the same time, I developed an interest in artificial neural networks and decided to join the Computational Vision Group at Caltech.
-</font>
-
+I'm from Cupertino, CA and attended Monta Vista High School. In undergrad, I did my B.S. in Physiology & Neuroscience with a minor in Computer Science at the University of California San Diego. As a student at UCSD, I did systems neuroscience research in the Komiyama Lab for two years and neuroeconomics research with Dr. Pamela Reinagel for one year. During these years, I developed an interest in artificial neural networks and, upon graduation, decided to join the <a href="https://www.vision.caltech.edu">Computational Vision Group</a> at Caltech.</font>
