@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have been a teaching assistant for Selected Topics in Computational Vision (EE148) at Caltech (Spring 2021, Spring 2022).
+I have been a teaching assistant for Selected Topics in Computational Vision (EE148) - (Spring 2021, Spring 2022).
 
 ### 2022
 ___ 
