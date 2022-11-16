@@ -13,7 +13,7 @@ I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltec
 Research Interests
 ----
 I'm interested in the relationship between human cognition and artificial intelligence. How do humans develop generalizable representations? Where does human cognition and artificial intelligence differ? <br/><br/>
-Currently, I'm working on the problem of **machine teaching**. My goal is to develop teaching algorithms that can produce personalized teaching material for human students given an expertly trained neural network. My intention with this work is to make high-quality tutoring available to students from diverse backgrounds.
+Currently, I'm working on the problem of **machine teaching**. My goal is to develop teaching algorithms that can produce personalized teaching material for human students from expertly trained machine learning models. My intention with this work is to make high-quality tutoring available to students from diverse backgrounds.
 
 Background
 ----
