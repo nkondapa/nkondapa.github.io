@@ -9,7 +9,7 @@ I have been a teaching assistant for Selected Topics in Computational Vision (EE
 
 ### 2022
 ___ 
-**EE 148**:   
+**EE 148**  
 *Selected Topics in Computational Vision*  
 
 I gave a lecture on transformers, their relationship to vision transformers, and the intuition behind attention. I also briefly discussed the practical differences in how CNNs and ViTs process images.<br style="line-height: 10px" />
@@ -17,7 +17,7 @@ I gave a lecture on transformers, their relationship to vision transformers, and
 
 ### 2021
 ___ 
-**EE 148**:    
+**EE 148**    
 *Selected Topics in Computational Vision* 
 
 I prepared a tutorial to teach students how to use Amazon SageMaker notebooks for their final projects.<br style="line-height: 10px" />
