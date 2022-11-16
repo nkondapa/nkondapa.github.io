@@ -10,12 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<script>
-
-public void onPageFinished(WebView view, String url) {
-    if (view.getTitle().equals(""))
-        view.reload();
-}
-</script>
+[Curriculum Vitae](../files/nkondapa_cv_nov_2022.pdf)
+--
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://nkondapa.github.io/files/nkondapa_cv_nov_2022.pdf" width="500" height="375">
