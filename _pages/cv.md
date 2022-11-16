@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://https://nkondapa.github.io/files/nkondapa_cv_nov_2022.pdf" width="500" height="375">
+viewer?embedded=true&url=https://nkondapa.github.io/files/nkondapa_cv_nov_2022.pdf" width="500" height="375">
