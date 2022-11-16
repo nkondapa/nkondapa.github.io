@@ -17,4 +17,4 @@ Currently, I'm working on the problem of **machine teaching**. We aim to take a 
 
 Background
 ----
-I earned my B.S. in Physiology & Neuroscience with a minor in Computer Science from the University of California San Diego. As a student at UCSD, I did systems neuroscience research in the Komiyama Lab for two years and neuroeconomics research with Dr. Pamela Reinagel for one year. During these years, I developed an interest in artificial neural networks and, upon graduation, decided to join the <a href="https://www.vision.caltech.edu">Computational Vision Group</a> at Caltech.</font>
+I earned my B.S. in Physiology & Neuroscience with a minor in Computer Science from the University of California San Diego. As a student at UCSD, I did systems neuroscience research in the Komiyama Lab for two years and neuroeconomics research with Dr. Pamela Reinagel for one year. During these years, I developed an interest in artificial neural networks and, upon graduation, decided to join the <a href="https://www.vision.caltech.edu">Computational Vision Group</a> at Caltech.
