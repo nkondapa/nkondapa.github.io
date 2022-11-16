@@ -5,12 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### 2022
+___
+**Visual Knowledge Tracing**    
+*Neehar Kondapaneni, Pietro Perona, Oisin Mac Aodha*    
+ECCV 2022   
+[[Paper]](../files/papers/2022/visual_knowledge_tracing.pdf) [[Code]](https://github.com/nkondapa/VisualKnowledgeTracing) [[Dataset]](https://data.caltech.edu/records/mqz96-xee20) [[Poster]](../files/papers/2022/visual_knowledge_tracing_poster.pdf) [[Video]](https://youtu.be/wAILBjyXWJw) [[arXiv]](https://arxiv.org/abs/2207.10157)
 
-{% include base_path %}
+### 2021
+___
+**A Number Sense as an Emergent Property of the Manipulating Brain**    
+*Neehar Kondapaneni, Pietro Perona*   
+arXiv: 2012.04132   
+[[Paper]](../files/papers/2021/number_sense_emergent.pdf) [[Supp]](../files/papers/2021/number_sense_emergent_supp.pdf) [[arXiv]](https://arxiv.org/abs/2012.04132)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2017
+___
+**Transformation of Cortex-wide Emergent Properties during Motor Learning**   
+*Hiroshi Makino, Chi Ren, Haixin Liu, An Na Kim, Neehar Kondapaneni,
+Xin Liu, Duygu Kuzum, Takaki Komiyama*    
+Cell Neuron   
+[[Paper]](../files/papers/2017/transformation_cortex_motor_learning.pdf) [[Journal]](https://www.cell.com/neuron/fulltext/S0896-6273(17)30341-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317303410%3Fshowall%3Dtrue)
+
