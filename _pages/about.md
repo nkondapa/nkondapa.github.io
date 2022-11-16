@@ -1,3 +1,7 @@
+```{css}
+li {
+  line-height: 1.1;
+}
 ---
 permalink: /
 title: "About me"
@@ -7,10 +11,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-```{css}
-li {
-  line-height: 1.1;
-}
 
 I'm a PhD student in the Computation and Neural Systems program at Caltech, advised by Pietro Perona. 
 
