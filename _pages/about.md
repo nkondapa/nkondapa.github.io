@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
+hide_title: true
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +13,7 @@ I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltec
 
 Research Interests
 ----
-I'm interested in the relationship between human cognition and artificial intelligence. How do humans develop generalizable representations? Where does human cognition and artificial intelligence differ? <br/><br/>
+I'm interested in the relationship between human cognition and artificial intelligence. How do humans learn generalizable representations? Where does human cognition and artificial intelligence differ?  <br/><br/>
 Currently, I'm working on the problem of **machine teaching**. Expertly trained machine learning models contain the knowledge to solve a specific task nearly perfectly. My goal is to develop teaching algorithms that can transform these uninterpretable expert models into interpretable, personalized teaching material for human students. My intention with this work is to make high-quality tutoring available to students from diverse backgrounds.
 
 Background
