@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Computation and Neural Systems program at Caltech advised by Pietro Perona. 
+I'm a PhD student in the Computation and Neural Systems program at Caltech. My advisor is Professor [Pietro Perona](https://www.vision.caltech.edu/). 
 
 Research Interests
 ----
