@@ -7,4 +7,44 @@ author_profile: true
 
 ---
 
-Coming soon...
+I have several interests outside of science!
+
+## Reading & Other Media  
+Some of my favorite books and podcasts! My [goodreads](https://www.goodreads.com/user/show/129074673-neehar-kondapaneni) has a more complete list and some amateurish reviews.  
+I'm currently reading Debt: The First 5000 Years by David Graeber  
+
+### Science Fiction
+The Foundation Series by Isaac Asimov  
+The Time Machine by H.G. Wells  
+Flowers for Algernon by Daniel Keyes  
+
+### Science, Culture & History
+**Merchants of Doubt by Naomi Oreskes** ::: this is one of the most important books I've ever read. Highly recommend!  
+Cadillac Desert by Marc Reisner  
+Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter  
+[Black Like Me](https://www.smithsonianmag.com/arts-culture/black-like-me-50-years-later-74543463/) by John Howard Griffin  
+[Morality](https://radiolab.org/episodes/91508-morality) by Radiolab  
+[From Tree to Shining Tree](https://radiolab.org/episodes/from-tree-to-shining-tree) by Radiolab  
+Caste: The Origins of Our Discontents by Isabel Wilkerson  
+
+### Fantasy
+The Gentleman Bastards by Scott Lynch  
+Hatchet by Gary Paulsen  
+The Swiss Family Robinson by Johann David Wyss  
+The Stormlight Archive Series by Brandon Sanderson 
+
+## Sports & Outdoors
+I grew up playing sports and also spent a lot of time hiking, climbing and camping. 
+
+<script src="/assets/js/masonry.pkgd.min.js"></script>
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'>
+  <div class="grid-item">
+    <img src="../files/about_me/banff.jpeg">
+  </div>
+  <div class="grid-item grid-item--width2">
+    <img src="../files/about_me/barbados.jpeg">
+  </div>
+  <div class="grid-item">
+    <img src="../files/about_me/yosemite.jpg">
+  </div>
+</div>
