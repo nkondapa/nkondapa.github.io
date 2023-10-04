@@ -8,9 +8,9 @@ author_profile: true
 ### 2023
 ___
 **Text-image Alignment for Diffusion-based Perception**    
-*Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, Pietro Perona*    
+*Neehar Kondapaneni<sup>*</sup>, Markus Marks<sup>*</sup>, Manuel Knott<sup>*</sup>, Rogério Guimarães, Pietro Perona*    
 arXiv: 2310.00031
-[[Paper]](../files/papers/2023/tadp.pdf) [[arXiv]](https://arxiv.org/abs/2310.00031)
+[[Project Page]](http://www.vision.caltech.edu/tadp/) [[Paper]](../files/papers/2023/tadp.pdf) [[arXiv]](https://arxiv.org/abs/2310.00031)
 
 ### 2022
 ___
