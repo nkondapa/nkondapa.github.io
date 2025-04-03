@@ -4,27 +4,35 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-### 2023
+### 2025
 ___
+**Representational Similarity via Interpretable Visual Concepts**    
+*Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona* 
+ICLR 2025
+[[Project Page]](https://nkondapa.github.io/rsvc-page/) [[Paper]](../files/papers/2025/rsvc.pdf) [[Code]](https://github.com/nkondapa/RSVC) [[OpenReview]](https://openreview.net/forum?id=ih3BJmIZbC) [[arXiv]](https://arxiv.org/abs/2503.15699)
+
+### 2024
+___
+**A Number Sense as an Emergent Property of the Manipulating Brain**    
+*Neehar Kondapaneni, Pietro Perona*   
+Scientific Reports 2024
+[[Journal]](https://www.nature.com/articles/s41598-024-56828-2) [[Paper]](../files/papers/2024/number_sense.pdf) [[Code]](https://github.com/nkondapa/ManipulationToNumberSense) [[arXiv]](https://arxiv.org/abs/2012.04132)
+
 **Text-image Alignment for Diffusion-based Perception**    
 *Neehar Kondapaneni<sup>*</sup>, Markus Marks<sup>*</sup>, Manuel Knott<sup>*</sup>, Rogério Guimarães, Pietro Perona*    
-arXiv: 2310.00031
-[[Project Page]](https://www.vision.caltech.edu/tadp/) [[Paper]](../files/papers/2023/tadp.pdf) [[arXiv]](https://arxiv.org/abs/2310.00031)
+CVPR 2024
+[[Project Page]](https://www.vision.caltech.edu/tadp/) [[Paper]](../files/papers/2023/tadp.pdf) [[Code]](https://github.com/damaggu/TADP) [[Colab]](https://colab.research.google.com/drive/1uadQ8iukjmnjEScn1qKWuy9ijcUbPMuN?usp=sharing) [[arXiv]](https://arxiv.org/abs/2310.00031)
 
+**Less is More: Discovering Concise Network Explanations**
+*Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona* 
+First Workshop on Representational Alignment (Re-Align)
+[[Project Page]](https://www.vision.caltech.edu/dcne/) [[Paper]](../files/papers/2024/dcne.pdf) [[Code]](https://github.com/nkondapa/DiscoveringConciseNetworkExplanations) [[OpenReview]](https://openreview.net/forum?id=JBwpD6Yy8Q&noteId=JBwpD6Yy8Q) [[arXiv]](https://arxiv.org/abs/2405.15243)
 ### 2022
 ___
 **Visual Knowledge Tracing**    
 *Neehar Kondapaneni, Pietro Perona, Oisin Mac Aodha*    
 ECCV 2022   
 [[Paper]](../files/papers/2022/visual_knowledge_tracing.pdf) [[Code]](https://github.com/nkondapa/VisualKnowledgeTracing) [[Dataset]](https://data.caltech.edu/records/mqz96-xee20) [[Poster]](../files/papers/2022/visual_knowledge_tracing_poster.pdf) [[Video]](https://youtu.be/wAILBjyXWJw) [[arXiv]](https://arxiv.org/abs/2207.10157)
-
-### 2021
-___
-**A Number Sense as an Emergent Property of the Manipulating Brain**    
-*Neehar Kondapaneni, Pietro Perona*   
-arXiv: 2012.04132   
-[[Paper]](../files/papers/2021/number_sense_emergent.pdf) [[Supp]](../files/papers/2021/number_sense_emergent_supp.pdf) [[arXiv]](https://arxiv.org/abs/2012.04132)
 
 ### 2017
 ___
