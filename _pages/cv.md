@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](../files/nkondapa_cv_nov_2022.pdf)
+[Curriculum Vitae](../files/nkondapa_cv_april_2025.pdf)
 --
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://nkondapa.github.io/files/nkondapa_cv_april_2024.pdf" width="500" height="375">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://nkondapa.github.io/files/nkondapa_cv_april_2025.pdf" width="500" height="375">
