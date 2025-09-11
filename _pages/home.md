@@ -13,8 +13,8 @@ I'm a PhD student in the [Computation and Neural Systems](https://www.bbe.caltec
 
 Research Interests
 ----
-I'm interested in the relationship between human cognition and artificial intelligence. How do humans learn generalizable representations? Where does human cognition and artificial intelligence differ?  <br/><br/>
-Currently, I'm working on the problem of **machine teaching**. Expertly trained machine learning models contain the knowledge to solve a specific task nearly perfectly. My goal is to develop teaching algorithms that can transform these uninterpretable expert models into interpretable, personalized teaching material for human students. My intention with this work is to make high-quality tutoring available to students from diverse backgrounds.
+I’m broadly interested in how different model representations give rise to different model behaviors. My work focuses on **representational alignment** and **interpretability**. How are these representations similar or different? How do these differences influence a model’s outputs? <br/><br/> 
+To address these questions, I’ve been developing interpretability methods to analyze these similarities and differences across representations. Comparison is a powerful lens for understanding how changes in training, architecture, or data shape the representations models learn. Looking ahead, I plan to extend this work to compare human and model representations, uncovering concepts unique to each. This knowledge will help improve the alignment between how machines and humans represent the world, enabling the development of safer and more interpretable models.
 
 Background
 ----
