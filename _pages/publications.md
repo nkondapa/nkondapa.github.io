@@ -15,6 +15,11 @@ ICLR 2025
 *Neehar Kondapaneni, Emily Gu, Oisin Mac Aodha, Pietro Perona*    
 Workshop on Bidirectional Human-AI Alignment (BiAlign)
 
+**Representational Difference Explanations**        
+*Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona*    
+[[Project Page]](https://nkondapa.github.io/rdx-page/) [[Paper]](../files/papers/2025/rdx.pdf) [[Code]](https://github.com/nkondapa/RDX) [[arXiv]](https://arxiv.org/pdf/2505.23917)
+
+
 ### 2024
 ___
 **A Number Sense as an Emergent Property of the Manipulating Brain**        
