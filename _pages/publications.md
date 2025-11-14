@@ -6,19 +6,19 @@ author_profile: true
 ---
 ### 2025
 ___
+**Representational Difference Explanations**        
+*Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona*    
+Neurips 2025
+[[Project Page]](https://nkondapa.github.io/rdx-page/) [[Paper]](../files/papers/2025/rdx.pdf) [[Code]](https://github.com/nkondapa/RDX) [[OpenReview]](https://openreview.net/forum?id=ngvolie2nH) [[arXiv]](https://arxiv.org/pdf/2505.23917)
+
 **Representational Similarity via Interpretable Visual Concepts**        
 *Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona*    
 ICLR 2025   
-[[Project Page]](https://nkondapa.github.io/rsvc-page/) [[Paper]](../files/papers/2025/rsvc.pdf) [[Code]](https://github.com/nkondapa/RSVC) [[OpenReview]](https://openreview.net/forum?id=ih3BJmIZbC) [[arXiv]](https://arxiv.org/abs/2503.15699)
+[[Project Page]](https://nkondapa.github.io/rsvc-page/) [[Paper]](../files/papers/2025/rsvc.pdf) [[Code]](https://github.com/nkondapa/RSVC) [[OpenReview]](https://openreview.net/forum?id=ih3BJmIZbC) [[arXiv]](https://arxiv.org/abs/2503.15699)\
 
-**Representational Difference Clustering**        
+**Representational Difference Clustering**
 *Neehar Kondapaneni, Emily Gu, Oisin Mac Aodha, Pietro Perona*    
-Workshop on Bidirectional Human-AI Alignment (BiAlign)
-
-**Representational Difference Explanations**        
-*Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona*    
-[[Project Page]](https://nkondapa.github.io/rdx-page/) [[Paper]](../files/papers/2025/rdx.pdf) [[Code]](https://github.com/nkondapa/RDX) [[OpenReview]](https://openreview.net/forum?id=ngvolie2nH) [[arXiv]](https://arxiv.org/pdf/2505.23917)
-
+Workshop on Bidirectional Human-AI Alignment (BiAlign) - ICLR 2025
 
 ### 2024
 ___
