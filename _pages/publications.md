@@ -14,7 +14,7 @@ Neurips 2025
 **Representational Similarity via Interpretable Visual Concepts**        
 *Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona*    
 ICLR 2025   
-[[Project Page]](https://nkondapa.github.io/rsvc-page/) [[Paper]](../files/papers/2025/rsvc.pdf) [[Code]](https://github.com/nkondapa/RSVC) [[OpenReview]](https://openreview.net/forum?id=ih3BJmIZbC) [[arXiv]](https://arxiv.org/abs/2503.15699)\
+[[Project Page]](https://nkondapa.github.io/rsvc-page/) [[Paper]](../files/papers/2025/rsvc.pdf) [[Code]](https://github.com/nkondapa/RSVC) [[OpenReview]](https://openreview.net/forum?id=ih3BJmIZbC) [[arXiv]](https://arxiv.org/abs/2503.15699)
 
 **Representational Difference Clustering**
 *Neehar Kondapaneni, Emily Gu, Oisin Mac Aodha, Pietro Perona*    
