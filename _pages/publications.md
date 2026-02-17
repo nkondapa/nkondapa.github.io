@@ -19,7 +19,7 @@ ICLR 2025
 **A Closer Look at Benchmarking Self-supervised Pre-training with Image Classification**  
 *Markus Marks, Manuel Knott, Neehar Kondapaneni, Elijah Cole, Thijs Defraeye, Fernando Perez-Cruz & Pietro Perona*   
 IJCV 2025   
-[[Paper]]([../files/papers/2025/rsvc.pdf](https://link.springer.com/article/10.1007/s11263-025-02402-w
+[[Paper]](https://link.springer.com/article/10.1007/s11263-025-02402-w
 ) [[arXiv]](https://arxiv.org/abs/2407.12210) [[Code]](https://github.com/manuelknott/ssl_eval_protocols)
 
 **Representational Difference Clustering**   
